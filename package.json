@@ -1,0 +1,25 @@
+{
+  "name": "pink",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Личный проект",
+  "scripts": {
+    "test": "editorconfig-tools check *" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Volodymyr75/pink.git"
+  },
+  "author": "Владимир",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Volodymyr75/pink/issues"
+  },
+  "homepage": "https://github.com/Volodymyr75/pink",
+  "engines": {
+    "node": "^5.0.0"
+  },
+  "devDependencies": {
+    "editorconfig-tools": "0.1.1"
+  }
+}
